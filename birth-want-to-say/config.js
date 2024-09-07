@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
@@ -50,7 +50,7 @@ var config = {
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我开始",
+        turn_on: "Click Me",
         play: "上音乐",
         bannar_coming: "搞点颜色",
         balloons_flying: "好像还少点东西",
